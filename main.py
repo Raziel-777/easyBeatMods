@@ -11,7 +11,7 @@ API_URL = f'/api/v1/mod?status=approved&gameVersion={GAME_VERSION}'
 MODS_URL = f"{BASE_URL}{API_URL}"
 MODS = ['BSIPA', 'SongCore', 'BetterPause', 'Custom Platforms', '_Heck', 'Chroma', 'BetterSongList',
         'BetterSongSearch', 'NoodleExtensions', 'PlaylistManager', 'SongPlayHistory', 'CustomSabersLite',
-        'Custom Avatars']
+        'Custom Avatars', 'Camera2']
 MODS_DIRECTORY = './mods'
 ARCHIVE = './mods_archive'
 
