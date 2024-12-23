@@ -1,0 +1,4 @@
+.venv
+*.zip
+mods
+.idea
